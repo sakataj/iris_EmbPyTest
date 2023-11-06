@@ -1,0 +1,2 @@
+# /tmp/exit.py
+exit
